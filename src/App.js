@@ -98,7 +98,7 @@ class App extends Component {
       <div style={{flex: 1, alignItems: "center", justifyContent: "center", display: "flex", flexDirection: "column"}}>
         <h3 style={{textAlign: "center", fontWeight: "bold", padding: "15px 0px 0px 0px", maxWidth: 600}}>¡Conoce a tu candidato!</h3>
         ESCOGE TU DISTRITO ->
-        <Select style={{margin: "10px 0px"}} labelField="rom" values={this.state.value} options={[{dis:4, rom:"IV"},{dis:5, rom: "V"},{dis:11, rom:"XI"},{dis:15, rom:"XV"}]} onChange={(val) => this.handleChange(val)} />
+        <Select style={{margin: "10px 0px"}} labelField="rom" values={this.state.value} options={[{dis:4, rom:"IV"},{dis:5, rom: "V"},{dis:11, rom:"XI"},{dis:15, rom:"XV"},{dis: 7, rom:"VII"}]} onChange={(val) => this.handleChange(val)} />
         <Col>
           <img src={portada} style={{margin: "20px 0px", width: "100%"}}/>
         </Col>

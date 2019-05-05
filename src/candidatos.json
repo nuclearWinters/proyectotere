@@ -213,5 +213,53 @@
     "distrito": 5,
     "text": "Ex regidora con Remberto Estrada.",
     "pluris": [["Luis Fernando Chávez Zepeda"," ex perforador de PEMEX.​"], ["Paula Pech Vazquez", "."], ["Arturo Castro Duarte, hombre cercano a Carlos Joaquín y a Félix González Canto.​ Ha miltado como priísta, panista, morenista.​"], ["Guadalupe Carrillo Escalante", ", ex regidora con María ​Trinidad García Arguelles.​"], ["José Manuel Estrada Gómez", ".​"]]
-}
-]
+},
+{
+    "img": "ENOEL",
+    "nombre": "ENOEL ISAIAS PÉREZ CORTÉS",
+    "partido": "PRI",
+    "distrito": 7,
+    "text": "Fue Delegado Federal del Trabajo en el Estado durante la presente administración de Carlos Joaquín.",
+    "pluris": [["Judith Rodríguez Villanueva",", diputada borgista de la XIV legislatura, aprobó la ampliación de la concesión de Aguakán, cómplice del endeudamiento y saqueo de Roberto Borge.​"], ["Manuel Díaz Carvajal", ", actual dirigente del PRI. Su hermano Javier Diaz Carvajal ha ocupado múltiples cargos con Félix González Canto y Roberto Borge Angulo con quienes ha sido cómplice de los saqueos de el Estado."], ["Rosario Ortiz Yeladaqui", ", fué Oficial Mayor de Roberto Borge ​Angulo. ​Ha sido Senadora, Diputada Federal, Diputada Local y ​Presidenta Municipal.​"], ["José Alfredo Ramos Tescúm", ", líder de la Confederación ​Nacional Campesina, vinculado a proceso por fraude en el ​2017.​"]]
+},
+{
+    "img": "GABRIELA",
+    "nombre": "GABRIELA LOPEZ PALLARES",
+    "partido": "MOVIMIENTO CIUDADANO",
+    "distrito": 7,
+    "text": "Es la suplente de la diputada local Candelaria Ayuso Achach (PRI) en el Congreso de Quintana Roo de la actual legislatura. Más tardó en rendir protesta como diputada local suplente que en solicitar licencia para contender por la diputación federal del Distrito 04 con sede en Cancún como parte de la coalición, “Todos Por Quintana Roo” que integran el Sol Azteca, PAN y Movimiento Ciudadano. (Fue Diputada por media hora)",
+    "pluris": [["José Luis Toledo Medina", ", presidente de la Gran Comisión en ​la legislatura de Roberto Borge.​ Diputado federal con Enrique Peña Nieto.​ Compadre de Roberto Borge. ​Es acusado de desviar recursos públicos federales cuando fue ​Tesorero del municipio Solidaridad. ​Su hermano José Carlos Toldo Medina es diputado en la ​actual legislatura.​ Su padre Marciano Toledo, fue alcalde de Solidaridad y​ diputado, se ha enriquecido con la compra-venta irregular de ​terrenos.​"], ["Gabi Pallares", " diputada por media hora, tira el cargo para ​contender como candidata de una coalición.​"], ["Rafael Rivero Aburto", ", señalado de fraudulento y estafador e ​inhabilitado según el expediente CM/DAQyR/DN-PA/005/2013.​"]]
+},
+{
+    "img": "ORVAÑANOS",
+    "nombre": "CARLOS ORVAÑANOS REA",
+    "partido": "PAN-PRD",
+    "distrito": 7,
+    "text": "Carlos Orvañanos Rea, economista y abogado, es uno de los 35 personajes que formaron parte del equipo de transición de Carlos Joaquín. Después de no conseguir la candidatura del PAN para competir por la jefatura del Gobierno del Distrito Federal para el periodo 2012-2018, el panista Orvañanos desapareció de la escena política capitalina. Aunque, durante el tiempo que estuvo ausente de la Ciudad de México, se supo que el panista se convirtió en empresario al sacar a la venta en Quintana Roo la cerveza Tulum. Al parecer su amistad con el gobernador Roberto Borge Angulo le valió que su bebida alcohólica fuera la única autorizada para venderse en el estadio de futbol Andrés Quintana Roo. En los últimos meses de 2015 el nombre de Carlos Orvañanos salió a la luz con el desgajamiento de un cerro en Santa Fe, delegación Cuajimalpa, en el cual estaban asentados edificios residenciales de súperlujo, los cuales, por un tiempo, nadie supo explicar quién había autorizado. Una investigación de EL UNIVERSAL reveló que la autorización para el uso y ocupación de esos edificios fue concedida por Rafael Figueroa, entonces director de Obras de la delegación Cuajimalpa, entonces gobernada por Orvañanos.",
+    "pluris": [["Eduardo Martínez Arcila", " actual  Presidente de la Gran Comisión, comparsa de Carlos Joaquín.​ Denunciado por falta de transparencia de 147 millones de pesos de supuestas ayudas sociales. Señalado por su partido por el mal uso de los recursos públicos cuando fue dirigente de este.​ Pretende reelegirse nuevamente por la vía plurinominal.​"], ["Cristina Torres", ". Fue secretaria general del Solidaridad con ​Filiberto Martínez Méndez."], ["Yamina Rosado Ibarra",", diputada suplente de Mayuli ​Martínez, pretende reelegirse."]]
+},
+{
+    "img": "ERICK",
+    "nombre": "ERICK SANCHEZ CORDOVA",
+    "partido": "MORENA-PT-VERDE",
+    "distrito": 7,
+    "text": "Fundador del Partido Morena, aunque el mes pasado intentaron bajarlo de la candidatura desde el CEN de ese partido.",
+    
+    "pluris": [["Luis Fernando Chávez Zepeda"," ex perforador de PEMEX.​"], ["Paula Pech Vazquez", "."], ["Arturo Castro Duarte, hombre cercano a Carlos Joaquín y a Félix González Canto.​ Ha miltado como priísta, panista, morenista.​"], ["Guadalupe Carrillo Escalante", ", ex regidora con María ​Trinidad García Arguelles.​"], ["José Manuel Estrada Gómez", ".​"]]
+},
+{
+    "img": "DZIB",
+    "nombre": "FRANCISCO JAVIER DZIB FLORES",
+    "partido": "CONFIANZA POR QUINTANA ROO",
+    "distrito": 7,
+    "text": "Confianza Por Quintana Roo, partido del Gobernador Carlos Joaquín, sabe que este candidato no tiene posibilidades de ganar pero, por pertenecer a grupos religiosos que representan un gran numero de votantes lo han postulado como candidato y le apuesta a esas estructuras, ya que sus votos ayudarán a que Roger Cáceres Pascacio pueda ser diputado, por la vía plurinominal.",
+    "pluris": [["Roger Enrique Cáceres Pascacio", ", dirigente del partido ​Confianza por Quintana Roo, ha pertenecido a varios ​partidos. ​Candidato por el PAN-PRD-MC en las elecciones pasadas por ​la presidencia municipal en Benito Juárez. ​Priísta con cargos de institucionalidad, luego regidor por el ​PRD, ex candidato a diputado local por el Distrito VI de la ​coalición con el PAN​. Yerno de Hernán Villatoro, éste ultimo, 3 veces diputado local.​​"]]
+},
+{
+    "img": "PATRICIA",
+    "nombre": "PATRICIA MARQUEZ MUÑOZ",
+    "partido": "MOVIMIENTO AUTENTICO SOCIAL",
+    "distrito": 7,
+    "text": "En 2016 se registró como ante el IEQROO como candidata independiente a la presidencia municipal de Benito Juárez.",
+    "pluris": [["José Luis Guillen López", ", empresario que dió préstamos a la alcaldesa Laura Fernández a cambio de la promesa de recibir ​contratos de obra pública, lo cual no le cumplieron derivando ​demandas."]]
+}]
